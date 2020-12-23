@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Falak Attendance</string>
+    <string name="made_by_the_falak_team">Made by The Falak Team</string>
+    <string name="initializing_app">Initializing App...</string>
+    <string name="e_x_p_e_r_i_m_e_n_t_a_l">E X P E R I M E N T A L</string>
+    <string name="log_in">Log-in</string>
+    <string name="onleave">On Leave</string>
+    <string name="can_t_continue_without_permission">Can\'t continue without permission!</string>
+</resources>
